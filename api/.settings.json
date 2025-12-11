@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "./venv/Scripts/python",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.pytest_cache": true
+    }
+}
